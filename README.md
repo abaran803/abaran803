@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/abaran803/abaran803/main/Turquoise%20Heading%20Website%20Facebook%20Cover.png)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Ayush Baranwal</h1>
 <h3 align="center">Web Developer by Passion</h3>
 
